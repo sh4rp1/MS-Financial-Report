@@ -1,7 +1,7 @@
 # MS-Financial-Report
 The project aims to create a database and integrate it with Power BI Desktop for data analysis. It involves importing data from Excel, using SQL queries for analysis, and meeting client requirements through additional analysis in Power BI Desktop. The final results are presented through interactive charts and graphics.
 
-The sample dataset provided consists of information about sales transactions of different products in various countries, categorized by different segments. Here's an explanation of some of the columns in the dataset:
+The dataset provided consists of information about sales transactions of different products in various countries, categorized by different segments. Here's an explanation of some of the columns in the dataset:
 
 1. Segment: This column represents the category or segment to which the customer belongs. The distinct segments mentioned in the dataset are Channel Partners, Enterprise, Government, Midmarket, and Small Business. Each segment represents a specific type of customer or target market.
 
